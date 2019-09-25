@@ -1,0 +1,9 @@
+[package]
+name = "postfix"
+description = "Postfix expression evaluator"
+version = "0.1.0"
+authors = ["mtso <~@mtso.io>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
