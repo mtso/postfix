@@ -1,9 +1,19 @@
 [package]
 name = "postfix"
 description = "Postfix expression evaluator"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["mtso <~@mtso.io>"]
 edition = "2018"
 license = "MIT"
+documentation = "https://docs.rs/postfix"
+keywords = [
+    "postfix",
+    "rpn",
+    "math",
+    "calculator",
+]
+categories = [
+    "algorithms"
+]
 
 [dependencies]
